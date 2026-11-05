@@ -69,6 +69,10 @@ diceware -i wordlist.txt -c 5 -n 10
 종려나무-휴가-콩알게-돈나무이-속담
 ```
 
+## research
+
+- [임의 비트열을 한국어로 인코딩하기](./research/hangul-encoding/README.md): 음절, 자모, 단어, 문장 기반 인코딩 7가지 비교
+
 ## Acknowledge
 
 ### wordlist
